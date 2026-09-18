@@ -9,7 +9,7 @@
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Arma-3-DLC-Unlocker-2026/.github/)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
